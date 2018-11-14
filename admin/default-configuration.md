@@ -103,7 +103,7 @@ stream.longpolling {
 
 cortex {
   #"CORTEX-SERVER-ID" {
-  #  # URL of MISP server
+  #  # URL of Cortex server
   #  url = ""
   #  #HTTP client configuration, more details in section 8
   #  ws {
